@@ -1,0 +1,1 @@
+alert("The game is still in devlopment!");
