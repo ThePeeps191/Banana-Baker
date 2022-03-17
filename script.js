@@ -1,1 +1,1 @@
-alert("The game is still in devlopment!");
+alert("The game is still in development!");
